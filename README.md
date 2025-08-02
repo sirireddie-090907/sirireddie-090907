@@ -40,6 +40,14 @@
 </p>
 
 ---
+# hi.py
+# A simple Python script that prints a greeting
+
+def greet():
+    print("Hi everyone!")
+
+if __name__ == "__main__":
+    greet()
 
 _✨ Thanks for visiting my profile! Stay tuned for awesome projects._
 
