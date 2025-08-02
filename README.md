@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- Profile README for Shirisha Ambati -->
 
-<!--
-**sirireddie-090907/sirireddie-090907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Shirisha Ambati</h1>
+<h3 align="center">A Passionate Learner | Aspiring Developer | AI & ML Enthusiast</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 💻 Exploring the world of **Python, C, and Web Development**
+- 📫 How to reach me: **shirishaambati@example.com**
+- 🎯 Goal: To build impactful tech projects and share them here on GitHub!
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shirishaambati&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shirishaambati&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirishaambati&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔗 Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/shirishaambati"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shirishaambati@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+_✨ Thanks for visiting my profile! Stay tuned for awesome projects._
+
